@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="window_background">#FFF5F5F5</color>
+
+    <color name="primaryColor">#673ab7</color>
+    <color name="primaryDarkColor">#512da8</color>
+    <color name="lightPrimaryColor">#d1c4e9</color>
+    <color name="textIconsColor">#FFFFFF</color>
+    <color name="accentColor">#536dfe</color>
+    <color name="primaryTextColor">#212121</color>
+    <color name="secondaryTextColor">#727272</color>
+    <color name="dividerColor">#B6B6B6</color>
+
+
+    <color name="backgroundStartSplashColor">#494644</color>
+    <color name="room1Color">#e24246</color>
+    <color name="room2Color">#fe8958</color>
+    <color name="room3Color">#43d45a</color>
+    <color name="room4Color">#429adc</color>
+    
+
+</resources>
